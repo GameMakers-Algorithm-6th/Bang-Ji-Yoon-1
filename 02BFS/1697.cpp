@@ -35,7 +35,7 @@ int BFS(int a, int K){
 
         int x1 = current * 2;
         int x2 = current + 1;
-        int x3 = current - 1;
+        int x3 = current - 1; 
 
 		//범위 내 & 방문x
 		if(x1>=0&&x1<100001)
