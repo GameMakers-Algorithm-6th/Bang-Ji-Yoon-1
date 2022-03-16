@@ -52,6 +52,7 @@
         "fortran": "cd $dir && gfortran $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt"
     },
     "files.associations": {
-        "queue": "cpp"
+        "queue": "cpp",
+        "ios": "cpp"
     }
 }
